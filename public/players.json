@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616463/mustafizur-rahman.jpg?d=high&p=full",
+    "player-name": "Mustafizur Rahman",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.8,
+    "batting-style": "Left-handed",
+    "bowling-style": "Left-arm Fast Medium",
+    "price": 4700000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c351921/shoriful-islam.jpg?d=high&p=full",
+    "player-name": "Shoriful Islam",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.4,
+    "batting-style": "Left-handed",
+    "bowling-style": "Left-arm Fast Medium",
+    "price": 4400000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616465/nahid-rana.jpg?d=high&p=full",
+    "player-name": "Nahid Rana",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.3,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Fast",
+    "price": 3200000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616469/tanzid-hasan-tamim.jpg?d=high&p=full",
+    "player-name": "Tanzid Hasan Tamim",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.1,
+    "batting-style": "Left-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 3500000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616460/soumya-sarkar.jpg?d=high&p=full",
+    "player-name": "Soumya Sarkar",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 8.2,
+    "batting-style": "Left-handed",
+    "bowling-style": "Right-arm Medium",
+    "price": 3000000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616464/liton-das.jpg?d=high&p=full",
+    "player-name": "Litton Das",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 9.0,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 7000000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616461/mehidy-hasan-miraz.jpg?d=high&p=full",
+    "player-name": "Mehidy Hasan Miraz",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 9.0,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 5000000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616462/towhid-hridoy.jpg?d=high&p=full",
+    "player-name": "Towhid Hridoy",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.7,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 9200000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616466/taskin-ahmed.jpg?d=high&p=full",
+    "player-name": "Taskin Ahmed",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.7,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Fast",
+    "price": 5000000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616467/najmul-hossain-shanto.jpg?d=high&p=full",
+    "player-name": "Najmul Hossain Shanto",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.8,
+    "batting-style": "Left-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 5000000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616468/mushfiqur-rahim.jpg?d=high&p=full",
+    "player-name": "Mushfiqur Rahim",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 8.8,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Off Break",
+    "price": 3500000
+  },
+  {
+    "player-image": "https://static.cricbuzz.com/a/img/v1/i1/c616470/mohammad-saifuddin.jpg?d=high&p=full",
+    "player-name": "Mohammad Saifuddin",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 8.2,
+    "batting-style": "Right-handed",
+    "bowling-style": "Right-arm Medium Fast",
+    "price": 6800000
+  }
+]
