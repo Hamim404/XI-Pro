@@ -21,6 +21,7 @@ function PlayerCard({
     }
     setAvailableBalance(availableBalance - card.price);
     setPurchasedPlayers([...purchasedPlayers, card]);
+    toast("Player Purchased!");
   };
 
   return (
