@@ -1,14 +1,26 @@
 import { useState } from "react";
 import avatarImg from "../../assets/avatar.png";
-function PlayerCard({ card, setAvailableBalance, availableBalance }) {
+import { toast } from "react-toastify";
+function PlayerCard({
+  card,
+  setAvailableBalance,
+  availableBalance,
+  purchasedPlayers,
+  setPurchasedPlayers,
+}) {
   const [selected, setSelected] = useState(false);
   const choosePlayer = () => {
     setSelected(true);
     if (availableBalance < card.price) {
-      alert("Not Enough Coins!");
+      toast("Not Enough Coins!");
+      return;
+    }
+    if (purchasedPlayers.length === 6) {
+      toast("6 Players Already Selected!");
       return;
     }
     setAvailableBalance(availableBalance - card.price);
+    setPurchasedPlayers([...purchasedPlayers, card]);
   };
 
   return (

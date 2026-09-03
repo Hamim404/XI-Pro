@@ -9,8 +9,8 @@ function Navbar({availableBalance}) {
         </a>
       </div>
       <div className="flex-none">
-        <div className="border-1 border-gray-700 border-solid p-2 flex gap-1 items-center">
-          <span>{availableBalance}</span> Coin
+        <div className="border-1 border-gray-700 border-solid rounded-xl px-2 flex gap-1 items-center">
+          <span className="text-amber-500 font-bold">{availableBalance}</span> Coin
           <img src={dollarImg} className="w-10" alt="" />
         </div>
       </div>
